@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite the Zenodo record below."
+title: "In-hive Varroa destructor imaging: dataset, mite-level re-inspection layer, cross-validation splits, evaluation code and model weights"
+abstract: "Code, five-fold split definitions, mite-level annotation layer and per-annotation
+  verification records for a field study of automated in-hive Varroa destructor surveillance.
+  Images and trained weights are distributed via the Zenodo record."
+version: "2.0"
+license: CC-BY-4.0
+doi: 10.5281/zenodo.23099411
+type: dataset
+authors:
+  - family-names: "FILL IN"
+    given-names: "FILL IN"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23099411
+    description: "Concept DOI, always resolves to the latest version"
+keywords:
+  - Varroa destructor
+  - Apis mellifera
+  - object detection
+  - YOLO
+  - annotation quality
+  - class imbalance

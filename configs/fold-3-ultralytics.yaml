@@ -1,0 +1,7 @@
+names:
+  0: Bee without visible mite
+  1: Bee with visible mite
+nc: 2
+path: C:\Users\tyson\Desktop\COMPAG-D-25-06559R2_0924\0527銘鴻
+train: D:\COMPAG_training\configs\fold-3\train.txt
+val: D:\COMPAG_training\configs\fold-3\val.txt

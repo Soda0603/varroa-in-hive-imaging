@@ -1,0 +1,6 @@
+names:
+- Bee without visible mite
+- Bee with visible mite
+nc: 2
+train: D:\COMPAG_training\configs\fold-5\train.txt
+val: D:\COMPAG_training\configs\fold-5\val.txt
