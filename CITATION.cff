@@ -9,12 +9,23 @@ license: CC-BY-4.0
 doi: 10.5281/zenodo.23099411
 type: dataset
 authors:
-  - family-names: "FILL IN"
-    given-names: "FILL IN"
+  - family-names: "Su"
+    given-names: "Tai-Sheng"
+    affiliation: "National Pingtung University of Science and Technology"
+  - family-names: "Gao"
+    given-names: "Ming-Hong"
+    affiliation: "National Pingtung University of Science and Technology"
+  - family-names: "Lee"
+    given-names: "Chun-Hua"
+    affiliation: "National Pingtung University of Science and Technology"
+  - family-names: "Wu"
+    given-names: "Chin-Chun"
+    affiliation: "National Pingtung University of Science and Technology"
 identifiers:
   - type: doi
     value: 10.5281/zenodo.23099411
     description: "Concept DOI, always resolves to the latest version"
+repository-code: "https://github.com/Soda0603/varroa-in-hive-imaging"
 keywords:
   - Varroa destructor
   - Apis mellifera
